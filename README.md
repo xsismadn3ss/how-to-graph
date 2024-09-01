@@ -8,15 +8,15 @@ Su primera aplicación fue en [El problema de los siete puentes de Königsberg](
 
 - **Nodos**: objetos que pueden tener relación con uno o más objetos.
 - **Relaciones**: líneas o aristas que conectan a los objetos y brindan contexto de las conexiones de los objetos.
-- **Nodos padre**: nodo central al cual se conecta otros nodos.
-- **Nodos hijo**: nodo que hace referencia a uno o más nodos.
+- **Nodos padre**: nodo central que hace referencia a otros nodos.
+- **Nodos hijo**: nodo referenciado a un nodo padre.
 
 ## Tipos de grafos
 
-- **No dirigido**: mapa de grafos que no usa flechas, únicamente aristas
+- **No dirigido**: mapa de grafos que no usa flechas, únicamente aristas.
 - **Dirigido**: mapa de grafos que utiliza flechas para representar que nodos hacen referencia a otros.
-- **Ponderado**: a los grafos se les asigna un peso o grado dependiendo del numero de nodos que hace referencia e él. El grado de un nodo puede representar la distancia, gastos, temperatura o cualquier medida relevante.
-- **Conexo**: es cuando se puede llegar a otro nodo recorriendo una ruta (existe conectividad entre todos los nodos)
+- **Ponderado**: a los grafos se les asigna un peso o grado dependiendo del numero de referencias que realice. El grado de un nodo puede representar la distancia, gastos, temperatura o cualquier medida relevante.
+- **Conexo**: es cuando se puede llegar de un nodo a otro recorriendo una ruta (existe conectividad entre todos los nodos).
   ![Grafo conexo](conexo.png)
 - **Acíclico**: no existe un camino cerrado en un grafo.
 - **Completo**: la ruta en un grafo es cerrada y no se repite dos veces la misma arista.
@@ -24,9 +24,9 @@ Su primera aplicación fue en [El problema de los siete puentes de Königsberg](
 
 ## Terminología de grafos
 
-- **Ciclo**: ruta en un mapa de nodos en el que no se repite más de una vez un nodo, a excepción del nodo inicial.
-- **Grado de un nodo**: Numero de aristas, referencias o conexiones que tiene un nodo.
-- **Camino**: una ruta en un mapa de nodos
+- **Ciclo**: es una ruta en un mapa de nodos que comienza y termina en el mismo vértice.
+- **Grado de un nodo**: numero de aristas, referencias o conexiones que tiene un nodo.
+- **Camino**: una ruta en un mapa de nodos.
 
 ## Proximamente...
 
