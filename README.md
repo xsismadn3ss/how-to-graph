@@ -17,10 +17,10 @@ Un grafo es una estructura de datos que permite representar a los objetos como v
 - **Dirigido**: mapa de grafos que utiliza flechas para representar que nodos hacen referencia a otros.
 - **Ponderado**: a los grafos se les asigna un peso o grado dependiendo del numero de nodos que hace referencia e él. El grado de un nodo puede representar la distancia, gastos, temperatura o cualquier medida relevante.
 - **Conexo**: es cuando se puede llegar a otro nodo recorriendo una ruta (existe conectividad entre todos los nodos)
-  ![Grafo conexo](Anexos\conexo.png)
+  ![Grafo conexo](conexo.png)
 - **Acíclico**: no existe un camino cerrado en un grafo.
 - **Completo**: la ruta en un grafo es cerrada y no se repite dos veces la misma arista.
-  ![Grafo completo](Anexos\completo.png)
+  ![Grafo completo](completo.png)
 
 ## Terminología de grafos
 
