@@ -33,7 +33,7 @@ Un grafo es una estructura de datos que permite representar a los objetos como v
 - Cómo aplicar los grafos en programación
 - Cómo hacer [Backtracking](Algoritmos/Backtracking.md)
 - Cómo crear y usar el [Algoritmo Dijkstra](Algoritmos/Dijkstra.md)
-- Cómo crear y usar el algoritmo [A/\*](Algoritmos/A✳️.md)
+- Cómo crear y usar el algoritmo [A asterisco](Algoritmos/A✳️.md)
 - Cómo aplicar grafos en mapas.
 
 ### [Bibliografía](Bibliografía/Bibliografía.md)
