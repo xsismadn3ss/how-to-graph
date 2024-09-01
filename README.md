@@ -7,7 +7,7 @@ Su primera aplicación fue en [El problema de los siete puentes de Königsberg](
 ## Partes de un grafo
 
 - **Nodos**: objetos que pueden tener relación con uno o más objetos.
-- **Relaciones**: líneas o aristas que conectar a los objetos y brindan contexto de las conexiones de los objetos.
+- **Relaciones**: líneas o aristas que conectan a los objetos y brindan contexto de las conexiones de los objetos.
 - **Nodos padre**: nodo central al cual se conecta otros nodos.
 - **Nodos hijo**: nodo que hace referencia a uno o más nodos.
 
