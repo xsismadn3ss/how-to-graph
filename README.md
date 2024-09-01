@@ -1,8 +1,8 @@
 # Grafos
 
-Su primera aplicación fue en [El problema de los siete puentes de Königsberg](Anexos\El_problema_de_los_siete_puentes_de_Königsberg.md) solucionado por el matemático [Leonhard Euler](Mencion\Leonhard_Euler.md).
+Su primera aplicación fue en [El problema de los siete puentes de Königsberg](Anexos/El_problema_de_los_siete_puentes_de_Königsberg.md) solucionado por el matemático [Leonhard Euler](Mencion/Leonhard_Euler.md).
 
-Un grafo es una estructura de datos que permite representar a los objetos como vértices y aristas. A simple vista se puede pensar que la única utilidad de un grafo es estética, pero su versatilidad yace en representar de forma abstracta e intuitiva relaciones entre objetos y como se conectan entre sí. Esta herramienta tiene un sin fin de aplicaciones en la [Telecomunicaciones](Anexos\Telecomunicaciones.md), [Ciencia de datos](Anexos\Ciencia_de_datos.md), [Machine Learning](Anexos\Machine_Learning.md) e [Inteligencia artificial](Anexos\Inteligencia_artificial.md).
+Un grafo es una estructura de datos que permite representar a los objetos como vértices y aristas. A simple vista se puede pensar que la única utilidad de un grafo es estética, pero su versatilidad yace en representar de forma abstracta e intuitiva relaciones entre objetos y como se conectan entre sí. Esta herramienta tiene un sin fin de aplicaciones en la [Telecomunicaciones](Anexos/Telecomunicaciones.md), [Ciencia de datos](Anexos/Ciencia_de_datos.md), [Machine Learning](Anexos/Machine_Learning.md) e [Inteligencia artificial](Anexos/Inteligencia_artificial.md).
 
 ## Partes de un grafo
 
@@ -31,9 +31,9 @@ Un grafo es una estructura de datos que permite representar a los objetos como v
 ## Proximamente...
 
 - Cómo aplicar los grafos en programación
-- Cómo hacer [Backtracking](Algoritmos\Backtracking.md)
-- Cómo crear y usar el [Algoritmo Dijkstra](Algoritmos\Dijkstra.md)
-- Cómo crear y usar el algoritmo [A\*](Algoritmos\A✳️.md)
+- Cómo hacer [Backtracking](Algoritmos/Backtracking.md)
+- Cómo crear y usar el [Algoritmo Dijkstra](Algoritmos/Dijkstra.md)
+- Cómo crear y usar el algoritmo [A/\*](Algoritmos/A✳️.md)
 - Cómo aplicar grafos en mapas.
 
-### [Bibliografía](Bibliografía\Bibliografía.md)
+### [Bibliografía](Bibliografía/Bibliografía.md)
