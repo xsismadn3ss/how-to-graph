@@ -26,7 +26,7 @@ Su primera aplicación fue en [El problema de los siete puentes de Königsberg](
 
 - **Ciclo**: ruta en un mapa de nodos en el que no se repite más de una vez un nodo, a excepción del nodo inicial.
 - **Grado de un nodo**: Numero de aristas, referencias o conexiones que tiene un nodo.
-- **Camino**: Un ruta en un mapa de nodos
+- **Camino**: una ruta en un mapa de nodos
 
 ## Proximamente...
 
