@@ -4,6 +4,6 @@ El Matemático [Leonhard Euler](..\Mencion\Leonhard_Euler.md) invento la teoría
 
 El problema consistía en encontrar un camino posible en el que una persona no tenga que recorrer dos veces el mismo puente. Euler al tener un pensamiento creativo y crítico encontró la solución representando el mapa como vértices y aristas.
 
-Aunque este problema no tenía solución,Euler encontró una herramienta muy útil para abstrar geométricamente mapas,objetos y árboles de probabilidad.
+Aunque este problema no tenía solución, Euler encontró una herramienta muy útil para abstrar geométricamente mapas,objetos y árboles de probabilidad.
 
 ![Puentes de Köningsberg](puentes.png)
